@@ -31,6 +31,13 @@ nav{
   height: 60px;
   align-items: center;
   padding: 10px;
+  cursor: pointer;
+}
+.navbar ul li:hover{
+  color: orange;
+}
+.navbar ul button:hover{
+  background-color: rgb(235, 194, 119);
 }
 .navbar .nav-icon{
   display: none;
@@ -62,4 +69,5 @@ nav .logo{
   font-size:1.5em ;
   font-weight: bold;
   font-family: pop-bold;
+  cursor: pointer;
 }
