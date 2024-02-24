@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1070px){
+    .navbar .nav-right{
+        display: none;
+        background-color: brown;
+    }
+    .navbar .nav-items {
+        margin-right: 10px;
+    }
+}
