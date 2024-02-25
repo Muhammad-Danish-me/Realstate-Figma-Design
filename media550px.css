@@ -26,4 +26,10 @@
   .section-four .my-container .left .btn-two {
     width: 50%;
   }
+  .section-four .my-container .left {
+    margin-left: -35px;
+  }
+  .section-four .my-container .right {
+    margin-left: -35px;
+  }
 }

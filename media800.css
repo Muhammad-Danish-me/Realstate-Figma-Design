@@ -91,6 +91,7 @@
   .section-four .my-container .right {
     width: 100%;
     justify-content: center;
+    margin-left: -20px;
   }
   .section-four .my-container .right img {
     width: 100%;
