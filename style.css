@@ -1,4 +1,4 @@
-body{
+body {
   padding: 0;
   margin: 0;
 }
@@ -10,14 +10,14 @@ body{
   font-family: pop-reg;
   src: url(Fonts/Poppins-Regular.ttf);
 }
-*{
+* {
   font-family: pop-reg;
 }
-nav{
+nav {
   width: 100%;
   height: 90px;
   display: flex;
-  background-color: #FAFAFA;
+  background-color: #fafafa;
   border-radius: 70px;
   margin-top: 10px;
 }
@@ -33,13 +33,13 @@ nav{
   padding: 10px;
   cursor: pointer;
 }
-.navbar ul li:hover{
+.navbar ul li:hover {
   color: orange;
 }
-.navbar ul button:hover{
+.navbar ul button:hover {
   background-color: rgb(235, 194, 119);
 }
-.navbar .nav-icon{
+.navbar .nav-icon {
   display: none;
 }
 .navbar .nav-items {
@@ -47,32 +47,32 @@ nav{
   display: flex;
   list-style-type: none;
   gap: 40px;
-  background-color: #FEFEFF;
+  background-color: #fefeff;
   border-radius: 40px;
-  font-size: 1  em;
+  font-size: 1 em;
   height: 60px;
   align-items: center;
   padding: 10px;
 }
-.nav-right{
+.nav-right {
   padding-right: 40px;
 }
-.nav-right ul button{
+.nav-right ul button {
   height: 60px;
   width: 150px;
   border-radius: 40px;
   background-color: white;
-  border: 1px solid #BEBEBE;
+  border: 1px solid #bebebe;
 }
-nav .logo{
+nav .logo {
   padding-left: 40px;
-  font-size:1.5em ;
+  font-size: 1.5em;
   font-weight: bold;
   font-family: pop-bold;
   cursor: pointer;
 }
 
-.section-one{
+.section-one {
   width: 100%;
   height: 500px;
   background-repeat: no-repeat;
@@ -84,7 +84,7 @@ nav .logo{
   padding-left: 40px;
   border-radius: 15px;
 }
-.section-one .left p{
+.section-one .left p {
   font-size: 1em;
 }
 .section-one .left input {
@@ -94,53 +94,53 @@ nav .logo{
   width: 70%;
   padding: 10px;
 }
-.section-one .left button{
+.section-one .left button {
   position: relative;
   border-radius: 40px;
   right: 65px;
   height: 60px;
-  background-color: #1F1F1F;
+  background-color: #1f1f1f;
   color: white;
 }
-.section-one .left h3{
+.section-one .left h3 {
   font-family: pop-bold;
   font-size: 3em;
 }
 .section-one .right {
   width: 60%;
 }
-.section-one .right img{
+.section-one .right img {
   padding-top: 100px;
   width: 100%;
 }
 
 /* section two start */
-.section-two{
+.section-two {
   width: 100%;
   margin-top: 120px;
 }
-.section-two .top{
+.section-two .top {
   text-align: center;
 }
-.section-two .top p{
+.section-two .top p {
   font-size: 1em;
 }
-.section-two .top h3{
+.section-two .top h3 {
   font-family: pop-bold;
   font-size: 2.4em;
 }
-.section-two .bottom{
+.section-two .bottom {
   margin-top: 40px;
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
-.section-two .bottom img{
+.section-two .bottom img {
   width: 50px;
 }
-.section-two .bottom h4{
+.section-two .bottom h4 {
   font-family: pop-bold;
 }
-.section-two .bottom div{
+.section-two .bottom div {
   width: 25%;
 }
