@@ -145,30 +145,35 @@ nav .logo {
   width: 25%;
 }
 /* section three */
-.section-three{
+.section-three {
   width: 100%;
   margin-top: 50px;
 }
-.section-three .card-top{
+.section-three .card-top {
   display: flex;
   justify-content: space-between;
 }
-.section-three .card-top h3{
+.section-three .card-top h3 {
   font-family: pop-bold;
   font-size: 2em;
 }
-.section-three .cards .left img{
+.section-three .cards .left img {
   width: 100%;
   object-fit: cover;
-  background: linear-gradient(115.89deg, rgba(193, 222, 232, 0.7) 9.86%, rgba(255, 255, 255, 0) 52.13%, rgba(251, 217, 185, 0.7) 97.99%);
+  background: linear-gradient(
+    115.89deg,
+    rgba(193, 222, 232, 0.7) 9.86%,
+    rgba(255, 255, 255, 0) 52.13%,
+    rgba(251, 217, 185, 0.7) 97.99%
+  );
   border-radius: 14px;
   height: 263px;
   object-fit: fill;
 }
-.section-three .cards .left{
+.section-three .cards .left {
   width: 32%;
   border-radius: 14px;
-  border: 1px solid #BEBEBE;
+  border: 1px solid #bebebe;
 }
 .section-three .cards .left h4 {
   padding: 10px;
@@ -176,7 +181,7 @@ nav .logo {
   font-family: pop-bold;
   font-size: 1.5em;
 }
-.section-three .cards .left p{
+.section-three .cards .left p {
   padding: 10px;
 }
 .section-three .cards {

@@ -25,13 +25,13 @@
   .section-one .right {
     width: 100%;
   }
-  .section-three .cards{
+  .section-three .cards {
     width: 100%;
   }
-  .section-three .cards .left{
+  .section-three .cards .left {
     width: 33%;
   }
-  .section-three .cards .left img{
+  .section-three .cards .left img {
     width: 100%;
     object-fit: fill;
   }
