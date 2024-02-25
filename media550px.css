@@ -1,0 +1,23 @@
+@media only screen and (max-width: 550px){
+    .section-one .left{
+        width: 100%;
+    }
+    .section-one .left h3 {
+        font-size: 2em;
+    }
+    .section-one .left p{
+        line-height: 30px;
+    }
+    .section-one .left input{
+        padding: 0px;
+        text-align: center;
+        width: 75%;
+    }
+    .section-one .left button{
+        margin-top: 15px;
+        position: static;
+        width: 75%;
+    }
+
+
+}

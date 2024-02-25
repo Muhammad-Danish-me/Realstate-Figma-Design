@@ -71,3 +71,45 @@ nav .logo{
   font-family: pop-bold;
   cursor: pointer;
 }
+
+.section-one{
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-image: url(images/section-one-bg.png);
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 40px;
+  border-radius: 15px;
+}
+.section-one .left p{
+  font-size: 1em;
+}
+.section-one .left input {
+  border-radius: 40px;
+  height: 60px;
+  border: none;
+  width: 70%;
+  padding: 10px;
+}
+.section-one .left button{
+  position: relative;
+  border-radius: 40px;
+  right: 65px;
+  height: 60px;
+  background-color: #1F1F1F;
+  color: white;
+}
+.section-one .left h3{
+  font-family: pop-bold;
+  font-size: 3em;
+}
+.section-one .right {
+  width: 60%;
+}
+.section-one .right img{
+  padding-top: 100px;
+  width: 100%;
+}

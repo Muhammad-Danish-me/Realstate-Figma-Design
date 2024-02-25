@@ -6,4 +6,25 @@
     .navbar .nav-items {
         margin-right: 10px;
     }
+    .section-one {
+        width: 100%;
+
+    }
+    .section-one .left  h3{
+        font-size: 2em;
+
+    }
+    .section-one .left  p {
+        font-size: 0.9em;
+    }
+    .section-one .left input{
+        width: 70%;
+    }
+    .section-one .left button {
+        width: 25%;
+        bottom: 12px;
+    }
+    .section-one .right {
+        width: 100%;
+    }
 }
