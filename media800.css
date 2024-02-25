@@ -72,4 +72,46 @@
   .section-three .card-top img {
     display: none;
   }
+  /* section four */
+  .section-four {
+    width: 100%;
+    text-align: center;
+  }
+  .section-four .top {
+    width: 100%;
+    padding-left: 25px;
+  }
+  .section-four .my-container {
+    justify-content: center;
+  }
+  .section-four .my-container .left {
+    width: 100%;
+    justify-content: center;
+  }
+  .section-four .my-container .right {
+    width: 100%;
+    justify-content: center;
+  }
+  .section-four .my-container .right img {
+    width: 100%;
+    object-fit: fill;
+    height: 400px;
+  }
+  .section-four .my-container .left .btn-one {
+    width: 200px;
+  }
+  .section-four .my-container .left .btn-two {
+    width: 200px;
+  }
+  .section-four .my-container .number {
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    padding-right: 20px;
+  }
+  .section-four .my-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
 }

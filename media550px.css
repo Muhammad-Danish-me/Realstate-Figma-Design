@@ -18,4 +18,12 @@
     position: static;
     width: 75%;
   }
+  /* section four */
+  .section-four .my-container .left .btn-one {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .section-four .my-container .left .btn-two {
+    width: 50%;
+  }
 }
