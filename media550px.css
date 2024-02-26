@@ -29,14 +29,12 @@
   .section-four .my-container .left {
     margin-left: -25px;
   }
-  .section-four .my-container .right img{
+  .section-four .my-container .right img {
     width: 100%;
     object-fit: fill;
   }
   .section-four .my-container .right {
     width: 100%;
     padding-right: 20px;
-    
-
   }
 }

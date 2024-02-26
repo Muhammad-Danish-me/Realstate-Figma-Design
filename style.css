@@ -249,3 +249,49 @@ nav .logo {
   height: 577px;
   object-fit: contain;
 }
+/* section five */
+.section-five {
+  width: 100%;
+  height: 457px;
+  margin-top: 50px;
+  background-image: url(images/section-one-bg.png);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.section-five .left {
+  padding-left: 20px;
+  width: 45%;
+}
+.section-five .right {
+  width: 45%;
+}
+.section-five .right img {
+  width: 100%;
+}
+.section-five .left h4 {
+  font-family: pop-bold;
+  font-size: 2.5em;
+}
+.section-five .left p {
+  padding-bottom: 30px;
+}
+.section-five .left input {
+  width: 60%;
+  border-radius: 40px;
+  height: 60px;
+  border: none;
+  padding: 10px;
+}
+.section-five .left button {
+  position: relative;
+  right: 70px;
+  background-color: #1f1f1f;
+  color: #fafafa;
+  border-radius: 40px;
+  height: 60px;
+  border: none;
+  padding: 10px;
+}
